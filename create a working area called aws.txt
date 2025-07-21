@@ -1,0 +1,3 @@
+create a working area called aws
+now create two files in aws folder - with some contents
+push this working area to remote repository 
